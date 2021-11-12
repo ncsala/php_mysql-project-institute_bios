@@ -54,7 +54,7 @@ Deberá implementarse una serie de listados:
  Listado de todos los productos de una categoría seleccionada.
  Listado de todos los productos de un origen en particular.
  Listado de todos los productos de un origen y categoría en particular.
-NOTA: todos los listados deben permitir ser ordenados por cualquier columna, al hacer clic en la misma.Escuela de Sistemas y Tecnologías BIOS | PHP – MySQL | Proyecto Abril-Agosto 2014
+NOTA: todos los listados deben permitir ser ordenados por cualquier columna, al hacer clic en la misma.
 
 DATOS ACADÉMICOS
 El proyecto es individual. Y deberá enviar un correo a fnunez.bios@gmail.com con los siguientes datos:
