@@ -57,8 +57,7 @@ Deberá implementarse una serie de listados:<br>
 NOTA: todos los listados deben permitir ser ordenados por cualquier columna, al hacer clic en la misma.
 
 DATOS ACADÉMICOS
-El proyecto es individual. Y deberá enviar un correo a fnunez.bios@gmail.com con los siguientes datos:
-ASUNTO: Inscripción Proyecto PHP – Abril-Agosto 2014
+El proyecto es individual.
 
 Corario:
 El archivo compactado deberá incluir la estructura del sitio Web que haya diseñado, conjuntamente con todos los
