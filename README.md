@@ -48,12 +48,12 @@ Sobre esta tabla solo podrá realizarse nuevos ingresos y modificaciones, pero n
 actualización sólo se realiza sobre el nombre de la categoría, permitiendo corregir cualquier problema de tipeo.
 
 Consultas:
-Deberá implementarse una serie de listados:
- Listado de todos las categorías existentes ordenadas alfabéticamente.
- Listado de todos los productos, con su correspondiente categoría.
- Listado de todos los productos de una categoría seleccionada.
- Listado de todos los productos de un origen en particular.
- Listado de todos los productos de un origen y categoría en particular.
+Deberá implementarse una serie de listados:<br>
+ Listado de todos las categorías existentes ordenadas alfabéticamente.<br>
+ Listado de todos los productos, con su correspondiente categoría.<br>
+ Listado de todos los productos de una categoría seleccionada.<br>
+ Listado de todos los productos de un origen en particular.<br>
+ Listado de todos los productos de un origen y categoría en particular.<br>
 NOTA: todos los listados deben permitir ser ordenados por cualquier columna, al hacer clic en la misma.
 
 DATOS ACADÉMICOS
