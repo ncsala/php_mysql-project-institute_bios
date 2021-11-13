@@ -2,7 +2,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-El presente trabajo es un proyecto creado para el curso de 'PHP y MySQL' del Instituto BIOS en el año 2014.
+El presente trabajo es un proyecto creado para el curso de 'PHP y MySQL' del Instituto BIOS en el año 2014.<br>
 A continuación la letra del proyecto:
 
 OBJETIVOS GENERALES
