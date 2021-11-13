@@ -1,6 +1,5 @@
 <h2> Proyecto - PHP y MySQL - Instituto BIOS </h2>
 
-----------------------------------------------------------------------------------------------------------------------------
 
 El presente trabajo es un proyecto creado para el curso de 'PHP y MySQL' del Instituto BIOS en el año 2014.<br>
 A continuación la letra del proyecto:
